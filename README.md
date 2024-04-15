@@ -1,8 +1,8 @@
-**  Workopia - Job Listing Management Application
-* Overview
+#  Workopia - Job Listing Management Application
+## Overview
 Workopia is a comprehensive job listing management system developed as a capstone project for the "PHP From Scratch 2024: Beginner to Advanced" course by Brad Traversy on Udemy. This project encapsulates the entirety of the course content, applying advanced PHP techniques, MySQL integration, object-oriented programming, and web security measures to create a fully functional web application.
 
-* Features
+## Features
 User Authentication and Authorization: Secure signup and login processes with differentiated access levels based on user roles.
 Job Listings Management: Users can add, view, update, and delete job listings. This feature demonstrates handling forms in PHP and interacting with a MySQL database.
 Admin Dashboard: A dedicated backend interface for administrators to manage listings, user accounts, and system settings.
